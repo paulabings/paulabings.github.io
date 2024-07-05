@@ -6,7 +6,7 @@ html {
 
 body {
   background-color: #e7f3ff;
-  color: #dbd0c3;
+  color: #b2a392;
 }
 
 a {
@@ -52,9 +52,9 @@ a:hover {
 }
 
 .icons a {
-    color: black;
+    color: #b2a392;
 }
 
 .icons a:hover {
-    color: #1565c0;
+    color: #c6e2ff;
 }
