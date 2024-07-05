@@ -5,12 +5,13 @@ html {
 }
 
 body {
-  background-color: red;
+  background-color: #e7f3ff;
+  color: #dbd0c3;
 }
 
 a {
     text-decoration: none;
-    color: #e5f6fb;
+    color: #dbd0c3;
 }
 
 a:hover {
