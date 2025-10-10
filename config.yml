@@ -55,7 +55,8 @@ params:
     profileMode:
           enabled: true
           title: Paula Bings
-          subtitle: "Hi, my name is Paula! I am a PhD fellow in Political Science at Aarhus University.I study local public service provision and political behavior. Please feel free to get in touch: pnb[at]ps.au.dk!"
+          subtitle: "Hi, my name is Paula! I am a PhD fellow in Political Science at Aarhus University. I study local public service provision and political behavior. 
+          Please feel free to get in touch: pnb[at]ps.au.dk!"
           imageUrl: "me.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -78,8 +79,8 @@ params:
     socialIcons:
         - name: Location
           url: https://www.au.dk/en/pnb@ps.au.dk/
-        - name: CV
-          url: cv.pdf
+        # - name: CV
+        #   url: cv.pdf
         - name: Twitter
           url: https://x.com/paulabings
         - name: Bluesky
