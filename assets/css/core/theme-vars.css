@@ -9,8 +9,8 @@
     --theme: #96AB79;
     --entry: #FFE0E0;
     --primary: #31609E;
-    --secondary: #8F20C7;
-    --tertiary: #31609E;
+    --secondary: #D4D4D4;
+    --tertiary: rgb(214, 214, 214);
     --gray: #C72091;
     --content: rgb(30, 30, 30);
     --code-block-bg: rgb(28, 29, 33);
@@ -34,8 +34,8 @@
     --theme: #96AB79;
     --entry: #FFE0E0;
     --primary: #31609E;
-    --secondary: rgb(155, 156, 157);
-    --tertiary: #31609E;
+    --secondary: #D4D4D4;
+    --tertiary: rgb(214, 214, 214);
     --content: rgb(196, 196, 197);
     --code-block-bg: rgb(46, 46, 51);
     --code-bg: rgb(55, 56, 62);
