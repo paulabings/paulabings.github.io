@@ -79,8 +79,8 @@ params:
     socialIcons:
         - name: Location
           url: https://www.au.dk/en/pnb@ps.au.dk/
-        # - name: CV
-        #   url: cv.pdf
+        - name: CV
+          url: CV.pdf
         - name: Twitter
           url: https://x.com/paulabings
         - name: Bluesky
