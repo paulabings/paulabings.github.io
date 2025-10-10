@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Paula Bings
-          subtitle: "Hi, my name is Paula! I am a PhD fellow in Political Science at Aarhus University. I study local public service provision and political behavior. In particular, I focus on how the unequal distribution of public goods across localities makes citizens feel deprioritized by their government and thereby affects their political attitudes and behavior. Please feel free to get in touch: pnb[at]ps.au.dk!"
+          subtitle: "Hi, my name is Paula! I am a PhD fellow in Political Science at Aarhus University.I study local public service provision and political behavior. Please feel free to get in touch: pnb[at]ps.au.dk!"
           imageUrl: "me.jpeg"
           imageWidth: 160
           imageHeight: 160
