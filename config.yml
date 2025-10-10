@@ -80,7 +80,7 @@ params:
         - name: Location
           url: https://www.au.dk/en/pnb@ps.au.dk/
         - name: CV
-          url: CV.pdf
+          url: cv.pdf
         - name: Twitter
           url: https://x.com/paulabings
         - name: Bluesky
