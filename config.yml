@@ -55,8 +55,8 @@ params:
     profileMode:
           enabled: true
           title: Paula Bings
-          subtitle: "Hi, my name is Paula! I am a PhD fellow in Political Science at Aarhus University."
-          imageUrl: "picture.jpeg"
+          subtitle: "Hi, my name is Paula! I am a PhD fellow in Political Science at Aarhus University. I study local public service provision and political behavior. In particular, I focus on how the unequal distribution of public goods across localities makes citizens feel deprioritized by their government and thereby affects their political attitudes and behavior. Please feel free to get in touch: pnb[at]ps.au.dk!"
+          imageUrl: "me.jpeg"
           imageWidth: 160
           imageHeight: 160
           # buttons:
@@ -76,10 +76,10 @@ params:
             #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
+        - name: Location
+          url: https://www.au.dk/en/pnb@ps.au.dk/
         - name: CV
           url: cv.pdf
-        - name: Email
-          url: mailto:igelfeld@regensburg.edu
         - name: Twitter
           url: https://x.com/paulabings
         - name: Bluesky
@@ -92,8 +92,8 @@ params:
         hiddenInSingle: true
     label:
       text: "Paula Bings"
-      icon: favicon.ico
-      iconHeight: 18
+      # icon: favicon.ico
+      # iconHeight: 18
 
 markup:
     goldmark:
