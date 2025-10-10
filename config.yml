@@ -55,8 +55,9 @@ params:
     profileMode:
           enabled: true
           title: Paula Bings
-          subtitle: "Hi, my name is Paula! I am a PhD fellow in Political Science at Aarhus University. I study local public service provision and political behavior. 
-          Please feel free to get in touch: pnb[at]ps.au.dk!"
+          subtitle: "Hi, my name is Paula! I am a PhD fellow in Political Science at Aarhus University. I study local public service provision and political behavior.<br>
+          Next spring, I will teach a Master's seminar on the connection between place and inequality.<br>
+          Please feel free to get in touch at pnb[at]ps.au.dk. I would be happy to talk!"
           imageUrl: "me.jpeg"
           imageWidth: 160
           imageHeight: 160
