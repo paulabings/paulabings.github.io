@@ -27,12 +27,10 @@ Visit my CV [here](/cv.pdf).
 
 Email: [pnb@ps.au.dk](mailto:pnb@ps.au.dk)
 
+
 > Department of Political Science
->
 > Aarhus University
->
 > Bartholins Allé 7
->
 > 8000 Aarhus C, Denmark
 
 
