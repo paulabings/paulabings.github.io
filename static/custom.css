@@ -1,16 +1,20 @@
+
 body {
-    background-color: #fdf6e3; /* pale butter yellow */
+    background-color: #fffae0; /* pale butter yellow */
 }
 
 #content a,
 #content a * {
-    color: #222222; /* same black as the rest of the text */
-    text-decoration: underline;
+    color: #222222 !important;
+    text-decoration: underline !important;
 }
 
-#footer small,
 #footer small a,
 #footer small a * {
-    color: inherit;
-    font-size: 0.75rem;
+    color: inherit !important;
+    font-size: 0.75rem !important;
+}
+
+#footer small {
+    font-size: 0.75rem !important;
 }
