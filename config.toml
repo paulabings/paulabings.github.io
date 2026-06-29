@@ -10,14 +10,10 @@ math = false # enable KaTeX (https://katex.org/) globally
     id = "" # add your tracking id if you want analytics
 
 [params]
-  author = "Paula"
-  description = "Personal academic homepage of Paula, Department of Political Science, Aarhus University."
-  favicon = "favicon.ico" # path to a .ico to use as favicon
+  author = "Paula N. Bings"
+  description = "Personal academic homepage of Paula Bings, Department of Political Science, Aarhus University."
+  # favicon = "favicon.ico" # path to a .ico to use as favicon
   logo = "" # url or path to a logo to put in the header
-
-  [params.footer]
-    text = "© Paula"
-    url = ""
 
   [params.style] # appearance options (can be omitted)
     fontFamily = "Inconsolata"
@@ -49,12 +45,6 @@ math = false # enable KaTeX (https://katex.org/) globally
 
 [permalinks]
   "/" = "/:filename"
-
-[menu]
-  [[menu.main]]
-    name = "About"
-    url = "/#about"
-    weight = 1
 
 [markup.goldmark.renderer]
   unsafe = true # allow raw HTML in markdown files
