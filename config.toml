@@ -1,4 +1,4 @@
-title = "Paula N. Bings"
+title = "Paula Bings"
 baseURL = "https://paulabings.github.io/"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
