@@ -1,0 +1,75 @@
+title = "Pauli — Political Science"
+baseURL = "https://example.com"
+theme = "researcher"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = false # enable KaTeX (https://katex.org/) globally
+
+[services]
+  [services.googleAnalytics]
+    id = "" # add your tracking id if you want analytics
+
+[params]
+  author = "Pauli"
+  description = "Personal academic homepage of Pauli, Department of Political Science, Aarhus University."
+  favicon = "favicon.ico" # path to a .ico to use as favicon
+  logo = "" # url or path to a logo to put in the header
+
+  [params.footer]
+    text = "© Pauli"
+    url = ""
+
+  [params.style] # appearance options (can be omitted)
+    fontFamily = "Inconsolata"
+    fontSize = "14pt"
+    pageWidth = "750px"
+    avatarSize = "90px"
+    colorBlack = "#222222"
+    colorRed = "#702963" # using your purple accent instead of the theme default red
+
+  [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "E-mail"
+    url = "mailto:your.email@ps.au.dk"
+
+  [[params.socialIcons]]
+    icon = "ai ai-google-scholar"
+    title = "Scholar"
+    url = "https://scholar.google.com/"
+
+  [[params.socialIcons]]
+    icon = "fab fa-github"
+    title = "GitHub"
+    url = "https://github.com/"
+
+  [[params.socialIcons]]
+    icon = "ai ai-orcid"
+    title = "ORCID"
+    url = "https://orcid.org/"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/#about"
+    weight = 1
+
+  [[menu.main]]
+    name = "CV"
+    url = "/#cv"
+    weight = 2
+
+  [[menu.main]]
+    name = "Publications"
+    url = "/#publications"
+    weight = 3
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/#contact"
+    weight = 4
+
+[markup.goldmark.renderer]
+  unsafe = true # allow raw HTML in markdown files
