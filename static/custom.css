@@ -1,6 +1,6 @@
 
 body {
-    background-color: #fffdf5; /* pale butter yellow */
+    background-color: #fffade; /* pale butter yellow */
 }
 
 /* Regular page links: black, underlined, with a hover color that fits yellow */
@@ -14,8 +14,12 @@ body {
 
 #content a:hover,
 #content a:hover * {
-    color: #f7e9ad !important; /* warm amber-brown, fits the yellow background */
+    color: #fad4a2 !important; /* warm amber-brown, fits the yellow background */
     text-decoration: underline !important;
+}
+
+#content blockquote {
+    font-size: 0.85rem;
 }
 
 /* Footer: smaller text, credit links blend in with the footer text color */
