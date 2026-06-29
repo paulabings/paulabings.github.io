@@ -19,14 +19,13 @@ Visit my CV [here](/cv.pdf).
 
 ## Working Papers
 
-- "Affluence Bias in the Siting of Locally Unwanted Land Uses: Evidence from
-  Denmark" (with [co-author]).
+- "Does Affluence Shape Representation? The Relationship between Income and the Distribution of Public Bads" (with *Victor Nordgaard*).
 
 ---
 
 ## Contact
 
-* Email: [pnb@ps.au.dk](mailto:pnb@ps.au.dk)
+Email: [pnb@ps.au.dk](mailto:pnb@ps.au.dk)
 
 > Department of Political Science
 >

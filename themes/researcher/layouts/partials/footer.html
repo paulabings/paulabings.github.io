@@ -1,15 +1,9 @@
-<div id="footer" class="mb-5">
-    <hr>
-    {{ if .Site.Params.socialIcons }}
+{{ with .Site.Params.footer }}
     <div class="container text-center">
-        {{ range $item := .Site.Params.socialIcons }}
-            <a href="{{ $item.url }}" class="{{ $item.icon }} fa-1x" title="{{ $item.title }}"></a>
-        {{ end }}
+        <a href="{{ .url | absURL }}" title="{{ .text }}" {{ if .blank }}target="_blank"{{ end }}><small>{{ .text }}</small></a>
     </div>
-    {{ end }}
-    {{ with .Site.Params.footer }}
-        <div class="container text-center">
-            <a href="{{ .url | absURL }}" title="{{ .text }}" {{ if .blank }}target="_blank"{{ end }}><small>{{ .text }}</small></a>
-        </div>
-    {{ end }}
+{{ end }}
+<div class="container text-center">
+    <small>Built with <a href="https://gohugo.io/" target="_blank">Hugo</a> using the <a href="https://github.com/ojroques/hugo-researcher" target="_blank">researcher</a> theme by <a href="https://github.com/ojroques" target="_blank">ojroques</a>.</small>
+</div>
 </div>
