@@ -1,3 +1,16 @@
 body {
-    background-color: #f5f0e6; /* beige */
+    background-color: #fdf6e3; /* pale butter yellow */
+}
+
+#content a,
+#content a * {
+    color: #222222; /* same black as the rest of the text */
+    text-decoration: underline;
+}
+
+#footer small,
+#footer small a,
+#footer small a * {
+    color: inherit;
+    font-size: 0.75rem;
 }
