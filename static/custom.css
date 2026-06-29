@@ -1,20 +1,35 @@
 
 body {
-    background-color: #fffae0; /* pale butter yellow */
+    background-color: #fffae8; /* pale butter yellow */
 }
 
+/* Regular page links: black, underlined, with a hover color that fits yellow */
 #content a,
+#content a:link,
+#content a:visited,
 #content a * {
     color: #222222 !important;
     text-decoration: underline !important;
 }
 
+#content a:hover,
+#content a:hover * {
+    color: #8a6d1d !important; /* warm amber-brown, fits the yellow background */
+    text-decoration: underline !important;
+}
+
+/* Footer: smaller text, credit links blend in with the footer text color */
+#footer,
+#footer small,
 #footer small a,
+#footer small a:link,
+#footer small a:visited,
 #footer small a * {
-    color: inherit !important;
+    color: #222222 !important;
     font-size: 0.75rem !important;
 }
 
-#footer small {
-    font-size: 0.75rem !important;
+#footer small a:hover,
+#footer small a:hover * {
+    color: #8a6d1d !important;
 }
