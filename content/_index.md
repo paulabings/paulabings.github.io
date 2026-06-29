@@ -1,5 +1,5 @@
 +++
-title = "Paula Natalie Bings"
+title = "Paula Bings"
 +++
 
 ## About

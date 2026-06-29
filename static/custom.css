@@ -1,6 +1,6 @@
 
 body {
-    background-color: #fffade; /* pale butter yellow */
+    background-color: #fff9d4; /* pale butter yellow */
 }
 
 /* Regular page links: black, underlined, with a hover color that fits yellow */
@@ -14,7 +14,7 @@ body {
 
 #content a:hover,
 #content a:hover * {
-    color: #fad4a2 !important; /* warm amber-brown, fits the yellow background */
+    color: #aba896 !important; /* warm amber-brown, fits the yellow background */
     text-decoration: underline !important;
 }
 
