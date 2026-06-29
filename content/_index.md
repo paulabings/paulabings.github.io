@@ -4,8 +4,6 @@ title = "Paula Bings"
 
 ## About
 
-{{< figure class="avatar" src="/paula.jpg" alt="avatar">}}
-
 Hi! I am a PhD Fellow at the Department of Political Science at Aarhus University, Denmark.
 My work sits at the intersection of political economy and political geography. 
 
@@ -15,13 +13,17 @@ In my Ph.D. project, I am exploring the political causes and consequences of how
 
 ## CV
 
-Visit my CV [here](/cv.pdf).
+Visit my CV [here](https://cvupload.au.dk/uploads/AU759931/cv.pdf).
 
 ---
 
 ## Working Papers
 
 - "Does Affluence Shape Representation? The Relationship between Income and the Distribution of Public Bads" (with *Victor Nordgaard*).
+
+- "Getting Less Does Not Mean Demanding More: Public Services and the Social Contract"
+
+- "How Improvements to Public Service Delivery Shape Populist Right Support"
 
 ---
 
