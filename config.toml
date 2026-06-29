@@ -1,5 +1,5 @@
-title = "Pauli — Political Science"
-baseURL = "https://example.com"
+title = "Paula N. Bings"
+baseURL = "https://paulabings.github.io/"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
@@ -10,13 +10,13 @@ math = false # enable KaTeX (https://katex.org/) globally
     id = "" # add your tracking id if you want analytics
 
 [params]
-  author = "Pauli"
-  description = "Personal academic homepage of Pauli, Department of Political Science, Aarhus University."
+  author = "Paula"
+  description = "Personal academic homepage of Paula, Department of Political Science, Aarhus University."
   favicon = "favicon.ico" # path to a .ico to use as favicon
   logo = "" # url or path to a logo to put in the header
 
   [params.footer]
-    text = "© Pauli"
+    text = "© Paula"
     url = ""
 
   [params.style] # appearance options (can be omitted)
