@@ -4,16 +4,16 @@ title = "Paula Bings"
 
 ## About
 
-Hi! I am a PhD Fellow at the Department of Political Science at Aarhus University, Denmark.
-My work sits at the intersection of political economy and political geography. 
+Hi! I am a Ph.D. Fellow at the Department of Political Science at Aarhus University, Denmark.
+My work sits at the intersection of political economy and political geography, addressing the political causes and consequences of how public goods are distributed. In particular, I am exploring how voters think about public service delivery, how unequal improvements to service delivery affect voting, and where and why undesirable public goods (*public bads*) are placed within local contexts. 
 
-In my Ph.D. project, I am exploring the political causes and consequences of how public goods are distributed. I am generally interested in  distributive politics, citizens' relationship to the state, and representation.  
+In my research, I rely on quantitative methods with a particular focus on quasi-experimental and experimental designs, such as difference-in-differences designs and survey experiments. 
 
 ---
 
 ## CV
 
-Visit my CV [here](https://cvupload.au.dk/uploads/AU759931/cv.pdf).
+Find my CV [here](https://cvupload.au.dk/uploads/AU759931/cv.pdf).
 
 ---
 
@@ -29,7 +29,7 @@ Visit my CV [here](https://cvupload.au.dk/uploads/AU759931/cv.pdf).
 
 ## Contact
 
-Email: [pnb@ps.au.dk](mailto:pnb@ps.au.dk)
+Email: pnb[@]ps.au.dk
 
 
 > Department of Political Science
