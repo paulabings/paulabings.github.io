@@ -20,7 +20,7 @@
             {{ end }}
         </div>
         {{ with .Site.Params.avatar }}
-            <img src="{{ . | absURL }}" alt="{{ $.Site.Params.author }}" class="ml-sm-3 mt-2 mt-sm-0" style="width:{{ $.Site.Params.style.avatarSize | default "90px" }}; height:{{ $.Site.Params.style.avatarSize | default "90px" }}; object-fit:cover; border-radius:50%;">
+            <img src="{{ . | absURL }}" alt="{{ $.Site.Params.author }}" class="ml-sm-3 mt-2 mt-sm-0" style="width:{{ $.Site.Params.style.avatarSize | default "90px" }}; height:auto;">
         {{ end }}
     </nav>
 </div>
