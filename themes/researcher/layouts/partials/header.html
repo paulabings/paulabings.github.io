@@ -1,5 +1,5 @@
 <div class="container mt-5">
-    <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
+    <nav class="navbar navbar-expand-sm flex-column flex-sm-row align-items-center text-nowrap p-0">
         <a class="navbar-brand mx-0 mr-sm-auto" href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}">
           {{ with .Site.Params.logo }}
             <img src="{{ . | absURL }}" alt="logo">
@@ -19,6 +19,9 @@
                 {{ end }}
             {{ end }}
         </div>
+        {{ with .Site.Params.avatar }}
+            <img src="{{ . | absURL }}" alt="{{ $.Site.Params.author }}" class="ml-sm-3 mt-2 mt-sm-0" style="width:{{ $.Site.Params.style.avatarSize | default "90px" }}; height:{{ $.Site.Params.style.avatarSize | default "90px" }}; object-fit:cover; border-radius:50%;">
+        {{ end }}
     </nav>
 </div>
 <hr>
