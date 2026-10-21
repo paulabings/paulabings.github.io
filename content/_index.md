@@ -23,7 +23,7 @@ Find my CV [here](https://cvupload.au.dk/uploads/AU759931/cv.pdf).
 
 - "Getting Less Does Not Mean Demanding More: Public Services and the Social Contract"
 
-- "How Improvements to Public Service Delivery Shape Populist Right Support"
+- ["How Improvements to Public Service Delivery Shape Populist Right Support"](Bings%202026.pdf)
 
 ---
 
